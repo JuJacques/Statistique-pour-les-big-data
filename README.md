@@ -1,5 +1,7 @@
 # Statistique-pour-les-big-data
 
+## Introduction aux big data
+
 ## Régression en grande dimension
 
 - Slides sur la <a href="Regression-HD.pdf" target="new">Régression HD</a>
@@ -15,6 +17,8 @@
 - Slides sur les <a href="ReseauxDeNeurones.pdf" target="new">Réseaux de Neurones</a>
 
 - Jeux de données : <a href="MNIST.Rdata" target="new">MNIST.Rdata</a>
+
+## Prise en compte des données manquantes
 
 ## Apprentissage sur données de nature hétérogènes
 
