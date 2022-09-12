@@ -10,7 +10,7 @@
 - <a href="Classification-intro.pdf" target="new">Introduction</a>
 - <a href="Classification-plsDA.pdf" target="new">plsDA</a>
 - <a href="Classification-randomForest.pdf" target="new">Random Forest</a>
-- <a href="Classification-RegressionLogistique.pdf" target="new">Random Forest</a>
+- <a href="Classification-RegressionLogistique.pdf" target="new">Regression Logistique</a>
 - <a href="Classification-SVM.pdf" target="new">SVM</a>
 - <a href="ReseauxDeNeurones.pdf" target="new">Réseaux de Neurones</a>
 
