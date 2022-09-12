@@ -16,6 +16,9 @@
 
 - Jeux de données : <a href="MNIST.Rdata" target="new">MNIST.Rdata</a>
 
+## Apprentissage sur données de nature hétérogènes
+
+- Jeux de données : <a href="VisaPremier.txt" target="new">Visa Premier</a> avec <a href="VisaPremier.pdf" target="new">descriptif des variables</a>
 
 
 
