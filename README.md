@@ -16,7 +16,10 @@
 - Slides sur les <a href="Classification-SVM.pdf" target="new">SVM</a>
 - Slides sur les <a href="ReseauxDeNeurones.pdf" target="new">Réseaux de Neurones</a>
 
-- Jeux de données : <a href="MNIST.Rdata" target="new">MNIST.Rdata</a>
+- Jeux de données : <a href="MNIST.Rdata" target="new">MNIST.Rdata</a>, avec la fonction suivante qui sera bien utile pour visualiser ces données :
+      show_digit <- function(x, col=gray(12:1/12), title='image') {
+        image(matrix(x, nrow=28)[,28:1], col=col, main=title)
+      }
 
 ## Prise en compte des données manquantes
 
