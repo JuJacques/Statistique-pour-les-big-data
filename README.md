@@ -2,6 +2,8 @@
 
 ## Introduction aux big data
 
+- Slides sur la <a href="Big-Data.pdf" target="new">Big Data</a>
+
 ## Régression en grande dimension
 
 - Slides sur la <a href="Regression-HD.pdf" target="new">Régression HD</a>
@@ -23,6 +25,8 @@
       }
 
 ## Prise en compte des données manquantes
+
+- Slides sur la <a href="Données-Manquantes.pdf" target="new">Données Manquantes</a>
 
 ## Apprentissage sur données de nature hétérogènes
 
