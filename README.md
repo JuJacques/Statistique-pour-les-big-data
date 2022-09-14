@@ -16,7 +16,8 @@
 - Slides sur les <a href="Classification-SVM.pdf" target="new">SVM</a>
 - Slides sur les <a href="ReseauxDeNeurones.pdf" target="new">Réseaux de Neurones</a>
 
-- Jeux de données : <a href="MNIST.Rdata" target="new">MNIST.Rdata</a>, avec la fonction suivante qui sera bien utile pour visualiser ces données :<br>
+- Application : sur les données <a href="MNIST.Rdata" target="new">MNIST.Rdata</a>, chercher le meilleur modèle pour prédire les chiffres manuscrits contenus dans les images. La fonction suivante sera bien utile pour visualiser ces images :
+
       show_digit <- function(x, col=gray(12:1/12), title='image') {<br>
         image(matrix(x, nrow=28)[,28:1], col=col, main=title)<br>
       }
@@ -25,9 +26,10 @@
 
 ## Apprentissage sur données de nature hétérogènes
 
-- Application sur les données <a href="VisaPremier.txt" target="new">Visa Premier</a> (<a href="VisaPremier.pdf" target="new">descriptif des variables</a>). Objectif : 
-      - comparer différentes méthodes pour prédire l'appétence à la carte Visa Premier
-      - interpréter l'impact des variables dans le modèle
+- Application : sur les données <a href="VisaPremier.txt" target="new">Visa Premier</a> (<a href="VisaPremier.pdf" target="new">descriptif des variables</a>), vous chercherez à construire un modèle pour prédire l'appétence à la carte Visa Premier : 
+ 
+   - comparer différentes méthodes
+   - interpréter l'impact des variables dans le modèle
 
 
 
