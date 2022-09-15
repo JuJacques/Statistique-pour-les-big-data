@@ -1,5 +1,7 @@
 # Statistique-pour-les-big-data
 
+Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une archive), pls, lars, misaem, missMDA, FactoMineR, mice, glmnet, neuralnet, nnet, e1071, kernlab, doMC, VGAM, adabag, randomForest, rpart, rpart.plot, class, mixOmics.
+
 ## Introduction aux big data
 
 - Slides sur la <a href="Big-Data.pdf" target="new">Big Data</a>
