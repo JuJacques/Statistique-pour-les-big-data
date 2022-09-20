@@ -25,12 +25,13 @@ Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une ar
 - Slides sur les <a href="ReseauxDeNeurones.pdf" target="new">Réseaux de Neurones</a>
 
 - Application : 
-      -sur les données <a href="MNIST.Rdata" target="new">MNIST.Rdata</a>, chercher le meilleur modèle pour prédire les chiffres manuscrits contenus dans les images. La fonction suivante sera bien utile pour visualiser ces images :
+     - sur les données <a href="MNIST.Rdata" target="new">MNIST.Rdata</a>, chercher le meilleur modèle pour prédire les chiffres manuscrits contenus dans les images. La fonction suivante sera bien utile pour visualiser ces images :
 
-      show_digit <- function(x, col=gray(12:1/12), title='image') {<br>
-        image(matrix(x, nrow=28)[,28:1], col=col, main=title)<br>
+      show_digit <- function(x, col=gray(12:1/12), title='image') {
+        image(matrix(x, nrow=28)[,28:1], col=col, main=title)
       }
-      - sur les données breast.tumors du package mixOmics, chercher à prédire si les échantillons ont été analysé avant (BE) ou après (AF) le traitement
+      
+     - sur les données breast.tumors du package mixOmics, chercher à prédire si les échantillons ont été analysé avant (BE) ou après (AF) le traitement
 
 
 ## Prise en compte des données manquantes
