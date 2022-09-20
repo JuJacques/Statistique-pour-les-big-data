@@ -13,6 +13,7 @@ Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une ar
 - Correction des exercices : <a href="Regression-gasoline.pdf" target="new">données gasoline</a> et <a href="Exercices-Prostate.pdf" target="new">données prostate</a>
 
 - Notes manuscrites : <a href="FormationBigData-20092022.pdf" target="new">19/09/2022</a> 
+- Slides annotés : <a href="Regression-HD-19092022.pdf" target="new">19/09/2022</a> 
 
 ## Classification en grande dimension
 
