@@ -10,6 +10,7 @@ Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une ar
 
 - Slides sur la <a href="Regression-HD.pdf" target="new">Régression HD</a>
 - Jeux de données : <a href="vehicules.txt" target="new">vehicules.txt</a>, <a href="vehicles.txt" target="new">vehicles.txt</a></p>
+- Correction des exercices : <a href="Regression-gasoline.pdf" target="new">données gasoline</a> et <a href="Exercices-Prostate.pdf" target="new">données prostate</a>
 
 ## Classification en grande dimension
 
@@ -28,7 +29,7 @@ Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une ar
 
 ## Prise en compte des données manquantes
 
-- Slides sur la <a href="Données-Manquantes.pdf" target="new">Données Manquantes</a>
+- Slides sur la <a href="Donnees-Manquantes.pdf" target="new">Données Manquantes</a>
 
 ## Apprentissage sur données de nature hétérogènes
 
