@@ -48,6 +48,8 @@ Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une ar
    - comparer différentes méthodes
    - interpréter l'impact des variables dans le modèle
 
+## Exercice du mercredi 28/09/22
 
+- <a href="2022-09-28-Exercice.pdf" target="new">Exercice</a>
 
 
