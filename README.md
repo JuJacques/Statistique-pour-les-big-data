@@ -1,4 +1,4 @@
-# Statistique-pour-les-big-data
+# Méthodes Statistiques pour les données massives (big data)
 
 Ayez une version à jour de R (moi j'ai la 4.2.1).
 
