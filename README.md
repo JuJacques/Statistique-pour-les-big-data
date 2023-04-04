@@ -30,12 +30,12 @@ Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une ar
       
      - sur les données breast.tumors du package mixOmics, chercher à prédire si les échantillons ont été analysé avant (BE) ou après (AF) le traitement
 
-- Corrections des exercices : <a href="Classification-MNIST.pdf" target="new">Classification-MNIST</a>, <a href="BreastTumors.pdf" target="new">BreastTumors</a>
+- Corrections des exercices : 
 
 ## Notes prises pendant la formation
 
-- Notes manuscrites : <a href="FormationBigData-20092022.pdf" target="new">20/09/2022</a> 
-- Slides annotés : <a href="Regression-HD-19092022.pdf" target="new">20/09/2022</a> 
+- Notes manuscrites : 
+- Slides annotés : 
 
 ## Prise en compte des données manquantes
 
@@ -48,8 +48,7 @@ Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une ar
    - comparer différentes méthodes
    - interpréter l'impact des variables dans le modèle
 
-## Exercice du mercredi 28/09/22
+## Exercices
 
-- <a href="2022-09-28-Exercice.pdf" target="new">Exercice</a>
 
 
