@@ -12,7 +12,7 @@ Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une ar
 
 - Slides sur la <a href="Regression-HD.pdf" target="new">Régression HD</a>
 - Jeux de données : <a href="vehicules.txt" target="new">vehicules.txt</a>, <a href="vehicles.txt" target="new">vehicles.txt</a></p>
-- Correction des exercices : <a href="Regression-gasoline.pdf" target="new">données gasoline</a> et <a href="Exercices-Prostate.pdf" target="new">données prostate</a>
+- Correction des exercices : <a href="Regression-gasoline.pdf" target="new">données gasoline</a> et <a href="Regression-vehicles.pdf" target="new">données vehicles</a>
 
 ## Classification en grande dimension
 
@@ -33,11 +33,6 @@ Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une ar
      - sur les données breast.tumors du package mixOmics, chercher à prédire si les échantillons ont été analysé avant (BE) ou après (AF) le traitement
 
 - Corrections des exercices : 
-
-## Notes prises pendant la formation
-
-- Notes manuscrites : 
-- Slides annotés : 
 
 ## Prise en compte des données manquantes
 
