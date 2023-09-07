@@ -12,7 +12,7 @@ Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une ar
 
 - Slides sur la <a href="Regression-HD.pdf" target="new">Régression HD</a>
 - Jeux de données : <a href="vehicules.txt" target="new">vehicules.txt</a>, <a href="vehicles.txt" target="new">vehicles.txt</a>
-- Exercice : data(Prostate) du library(lasso2)
+- Exercice : <a href="Prostate.Rdata" target="new">Prostate.Rdata</a> (prédidre log(cancer volume))
 - Correction des exercices : <!-- <a href="Regression-gasoline.pdf" target="new">données gasoline</a> et <a href="Regression-vehicles.pdf" target="new">données vehicles</a> -->
 
 ## Classification en grande dimension
@@ -31,7 +31,7 @@ Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une ar
         image(matrix(x, nrow=28)[,28:1], col=col, main=title)
       }
       
-     - sur les données breast.tumors du package mixOmics, chercher à prédire si les échantillons ont été analysé avant (BE) ou après (AF) le traitement
+     - sur les données <a href="breast.tumors.Rdata" target="new">breast.tumors.Rdata</a> du package mixOmics, chercher à prédire si les échantillons ont été analysé avant (BE) ou après (AF) le traitement
 
 - Corrections des exercices : 
 
