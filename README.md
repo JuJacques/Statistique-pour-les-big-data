@@ -11,7 +11,7 @@ Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une ar
 ## Régression en grande dimension
 
 - Slides sur la <a href="Regression-HD.pdf" target="new">Régression HD</a>
-- Jeux de données : <a href="vehicules.txt" target="new">vehicules.txt</a>, <a href="vehicles.txt" target="new">vehicles.txt</a></p>
+- Jeux de données : <a href="vehicules.txt" target="new">vehicules.txt</a>, <a href="vehicles.txt" target="new">vehicles.txt</a>
 - Exercice : data(Prostate) du library(lasso2)
 - Correction des exercices : <!-- <a href="Regression-gasoline.pdf" target="new">données gasoline</a> et <a href="Regression-vehicles.pdf" target="new">données vehicles</a> -->
 
