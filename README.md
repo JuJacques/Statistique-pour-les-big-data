@@ -17,7 +17,7 @@ Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une ar
 
 ## Classification en grande dimension
 
-- Slides sur d'<a href="Classification-intro.pdf" target="new">Introduction</a>
+- Slides d'<a href="Classification-intro.pdf" target="new">Introduction</a>
 - Slides sur la <a href="Classification-plsDA.pdf" target="new">plsDA</a>
 - Slides sur les <a href="Classification-randomForest.pdf" target="new">Random Forest</a>
 - Slides sur la <a href="Classification-RegressionLogistique.pdf" target="new">Regression Logistique</a>
@@ -33,7 +33,14 @@ Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une ar
       
      - sur les données <a href="breast.tumors.Rdata" target="new">breast.tumors.Rdata</a> du package mixOmics, chercher à prédire si les échantillons ont été analysé avant (BE) ou après (AF) le traitement
 
-- Corrections des exercices : 
+- Corrections des exercices :
+
+## Clustering
+
+- Slides sur le<a href="Clustering.pdf" target="new">clustering</a>
+
+- Application : 
+     - réaliser un clustering <a href="MNIST.Rdata" target="new">MNIST.Rdata</a> des données MNIST. Choisissez de façon adéquate le nombre de clusters et représenter vos résultats de façon la plus parlante possible
 
 ## Prise en compte des données manquantes
 
