@@ -1,6 +1,6 @@
 # Méthodes Statistiques pour les données massives (big data)
 
-Ayez une version à jour de R (moi j'ai la 4.2.1).
+Ayez une version à jour de R (moi j'ai la 4.4.0).
 
 Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une archive), pls, lars, misaem, missMDA, FactoMineR, mice, glmnet, neuralnet, nnet, e1071, kernlab, doMC, VGAM, adabag, randomForest, rpart, rpart.plot, class, mixOmics.
 
