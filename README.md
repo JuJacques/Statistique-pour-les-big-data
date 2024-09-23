@@ -33,7 +33,7 @@ Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une ar
       
      - sur les données <a href="breast.tumors.Rdata" target="new">breast.tumors.Rdata</a> du package mixOmics, chercher à prédire si les échantillons ont été analysé avant (BE) ou après (AF) le traitement
 
-- Corrections des exercices :
+- Corrections des exercices : <a href="Regression-vehicles.pdf" target="new">Regression sur les données vehicles</a>, <a href="Regression-gasoline.pdf" target="new">Regression sur les données gasoline</a>  
 
 ## Clustering
 
