@@ -37,7 +37,7 @@ Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une ar
 
 ## Clustering
 
-- Slides sur le<a href="Clustering.pdf" target="new">clustering</a>
+- Slides sur le <a href="Clustering.pdf" target="new">clustering</a>
 
 - Application : 
      - réaliser un clustering <a href="MNIST.Rdata" target="new">MNIST.Rdata</a> des données MNIST. Choisissez de façon adéquate le nombre de clusters et représenter vos résultats de façon la plus parlante possible
