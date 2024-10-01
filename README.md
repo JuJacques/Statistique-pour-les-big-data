@@ -33,7 +33,7 @@ Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une ar
       
      - sur les données <a href="breast.tumors.Rdata" target="new">breast.tumors.Rdata</a> du package mixOmics, chercher à prédire si les échantillons ont été analysé avant (BE) ou après (AF) le traitement
 
-- Corrections des exercices : <a href="Classification-MNIST-debut.pdf" target="new">Classification-MNIST-debut.pdf</a>
+- Corrections des exercices : <a href="Classification-MNIST-debut.pdf" target="new">Classification-MNIST.pdf</a>
 
 ## Clustering
 
@@ -41,6 +41,7 @@ Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une ar
 
 - Application : 
      - réaliser un clustering <a href="MNIST.Rdata" target="new">MNIST.Rdata</a> des données MNIST. Choisissez de façon adéquate le nombre de clusters et représenter vos résultats de façon la plus parlante possible
+     - <a href="TPclustering.pdf" target="new">correction</a>
 
 ## Prise en compte des données manquantes
 
