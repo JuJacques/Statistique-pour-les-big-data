@@ -4,6 +4,8 @@ Ayez une version à jour de R (moi j'ai la 4.4.0).
 
 Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une archive), pls, lars, misaem, missMDA, FactoMineR, mice, glmnet, neuralnet, nnet, e1071, kernlab, doMC, VGAM, adabag, randomForest, rpart, rpart.plot, class, mixOmics.
 
+- <a href="2024-10-01-Notes manuscrites.pdf" target="new">Notes manuscrites (setp-oct 2024)</a>
+
 ## Introduction aux big data
 
 - Slides sur la <a href="Big-Data.pdf" target="new">Big Data</a>
@@ -53,6 +55,8 @@ Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une ar
  
    - comparer différentes méthodes
    - interpréter l'impact des variables dans le modèle
+    
+ - <a href="VisaPremier-correction.pdf" target="new">correction</a>
 
 
 
