@@ -4,7 +4,7 @@ Ayez une version à jour de R (moi j'ai la 4.4.0).
 
 Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une archive), pls, lars, misaem, missMDA, FactoMineR, mice, glmnet, neuralnet, nnet, e1071, kernlab, doMC, VGAM, adabag, randomForest, rpart, rpart.plot, class, mixOmics.
 
-- <a href="2024-10-01-Notes manuscrites.pdf" target="new">Notes manuscrites (setp-oct 2024)</a>
+<!--- <a href="2024-10-01-Notes manuscrites.pdf" target="new">Notes manuscrites (setp-oct 2024)</a>-->
 
 ## Introduction aux big data
 
@@ -15,7 +15,7 @@ Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une ar
 - Slides sur la <a href="Regression-HD.pdf" target="new">Régression HD</a>
 - Jeux de données : <a href="vehicules.txt" target="new">vehicules.txt</a>, <a href="vehicles.txt" target="new">vehicles.txt</a>
 - Exercice : <a href="Prostate.Rdata" target="new">Prostate.Rdata</a> (prédidre log(cancer volume))
-- Correction des exercices : <a href="Regression-vehicles.pdf" target="new">Regression sur les données vehicles</a>, <a href="Regression-gasoline.pdf" target="new">Regression sur les données gasoline</a>  
+<!--- Correction des exercices : <a href="Regression-vehicles.pdf" target="new">Regression sur les données vehicles</a>, <a href="Regression-gasoline.pdf" target="new">Regression sur les données gasoline</a>  -->
 
 ## Classification en grande dimension
 
@@ -35,7 +35,7 @@ Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une ar
       
      - sur les données <a href="breast.tumors.Rdata" target="new">breast.tumors.Rdata</a> du package mixOmics, chercher à prédire si les échantillons ont été analysé avant (BE) ou après (AF) le traitement
 
-- Corrections des exercices : <a href="Classification-MNIST.pdf" target="new">Classification-MNIST.pdf</a>
+<!--- Corrections des exercices : <a href="Classification-MNIST.pdf" target="new">Classification-MNIST.pdf</a>-->
 
 ## Clustering
 
@@ -43,7 +43,7 @@ Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une ar
 
 - Application : 
      - réaliser un clustering <a href="MNIST.Rdata" target="new">MNIST.Rdata</a> des données MNIST. Choisissez de façon adéquate le nombre de clusters et représenter vos résultats de façon la plus parlante possible
-     - <a href="TPclustering.pdf" target="new">correction</a>
+    <!-- - <a href="TPclustering.pdf" target="new">correction</a>-->
 
 ## Prise en compte des données manquantes
 
@@ -56,7 +56,7 @@ Package R nécessaires : car, mctest, MASS, plsdepot (à installer depuis une ar
    - comparer différentes méthodes
    - interpréter l'impact des variables dans le modèle
     
- - <a href="VisaPremier-correction.pdf" target="new">correction</a>
+<!-- - <a href="VisaPremier-correction.pdf" target="new">correction</a>-->
 
 
 
